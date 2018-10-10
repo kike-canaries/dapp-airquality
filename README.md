@@ -1,2 +1,1 @@
-# dapp-airquality
-Air quality decentralized application for public health
+air quality dapp demo website
